@@ -22,3 +22,8 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 ueberauth_eve_online-*.tar
 
+# Ingore my local dev creds
+.env
+
+# Ignore ElixirLS
+/.elixir_ls
